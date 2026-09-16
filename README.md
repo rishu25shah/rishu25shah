@@ -105,7 +105,7 @@ passions: Building real-world web applications & secure systems
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishu25shah&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rishu's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=rishu25shah&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rishu's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@ passions: Building real-world web applications & secure systems
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishu25shah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rishu25shah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 </div>
@@ -122,11 +122,13 @@ passions: Building real-world web applications & secure systems
 
 ### 🐍 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishu25shah/rishu25shah/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishu25shah/rishu25shah/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/rishu25shah/rishu25shah/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishu25shah/rishu25shah/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishu25shah/rishu25shah/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/rishu25shah/rishu25shah/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
