@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm <a href="https://github.com/rishu25shah">Rishu Shah</a> 👋
+# Hi there, I'm <a href="https://github.com/rishu25shah">Rishu Sah</a> 👋
 ### 🎓 B.Tech IT Student | 🐍 Python & Backend Developer | 🛡️ Cybersecurity Enthusiast
 
 <p align="center">
@@ -40,14 +40,14 @@ institution: Bengal College of Engineering and Technology, Durgapur (2023 - 2027
 focus_areas:
   - Backend Development (Python, Flask, SQLite)
   - Core Computing (Computer Networks, OOP, Algorithms)
-  - Cybersecurity & Cryptography
+  - Cybersecurity
 passions: Building real-world web applications & secure systems
 ```
 
 - 🎓 **Undergrad Journey:** Currently pursuing my B.Tech in Information Technology at **Bengal College of Engineering and Technology, Durgapur** (Expected Graduation: 2027).
 - 🚀 **Hands-on Experience:** Built practical applications with **Flask**, **SQLite**, and **Google OAuth**, including full-stack railway booking logic.
 - 🛡️ **Tech Interests:** Passionate about **Software Development**, **Cybersecurity**, and **Computer Networking**.
-- 💡 **Problem Solving:** Strong foundation in Object-Oriented Programming (OOP), Data Structures & Algorithms with C and Python.
+- 💡 **Problem Solving:** Strong foundation in Object-Oriented Programming (OOP), Data Structures & Algorithms with C++ and Python.
 - 📜 **Certified:** Recognized as an **Infosys Springboard Young Python Professional**.
 
 ---
@@ -59,7 +59,6 @@ passions: Building real-world web applications & secure systems
 #### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
